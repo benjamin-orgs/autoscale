@@ -1,0 +1,11 @@
+{
+    "from_secret": false,
+    "name": "thresholds",
+    "value": {
+        "connections": {
+            "M20": 1500,
+            "M30": 2400,
+            "M40": 4800
+        }
+    }
+}

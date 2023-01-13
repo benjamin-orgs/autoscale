@@ -1,0 +1,5 @@
+{
+    "name": "atlasPrivateKey",
+    "value": "AtlasPrivateKey",
+    "from_secret": true
+}

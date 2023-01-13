@@ -1,0 +1,12 @@
+{
+    "name": "clusterList",
+    "value": [
+        {
+            "clusterNames": [
+                "Cluster-Name"
+            ],
+            "projectId": "Project-ID"
+        }
+    ],
+    "from_secret": false
+}
