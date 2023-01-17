@@ -4,9 +4,15 @@ This Project is an example implementation of MongoDB Atlas Cluster Autoscaling b
 
 The following Topics has to be taken into consideration: 
 
-- OpLog Size of the cluster for sufficient autoscaling (documentation)
-- Number of autoscaling Triggers in a given time to not scale up and down the cluster in a minute matter
+- OpLog Size of the cluster for sufficient autoscaling 
+- Number of autoscaling Triggers in a given time period 
 - When defining threshold please check out the documentation for further reading
+
+https://www.mongodb.com/docs/manual/core/replica-set-oplog/
+
+https://www.mongodb.com/docs/atlas/scale-cluster/#considerations
+
+https://www.mongodb.com/docs/atlas/reference/alert-resolutions/replication-oplog/
 
 # MongoDB Atlas Cluster Autoscaling
 
